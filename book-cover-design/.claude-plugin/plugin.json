@@ -1,0 +1,9 @@
+{
+  "name": "book-cover-design",
+  "version": "1.0.0",
+  "description": "Design compelling book covers — from concept storytelling to typography, visual hierarchy, color systems, and print-ready delivery.",
+  "author": { "name": "HeyonSeo", "url": "https://github.com/HeyonSeo" },
+  "keywords": ["book-cover", "publishing", "typography", "print", "visual-design", "cover-design", "layout", "color"],
+  "homepage": "https://github.com/HeyonSeo/bookcover-designer-skills",
+  "license": "MIT"
+}

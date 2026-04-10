@@ -55,6 +55,12 @@
                   "description": "Designer utility skills: portfolio review, resume building, case study structure, design presentations, stakeholder communication, and design briefs.",
                   "source": "./designer-toolkit",
                   "category": "design"
+          },
+          {
+                  "name": "book-cover-design",
+                  "description": "Book cover design skills: concept analysis, visual storytelling, typography, color mood systems, layout composition, image direction, genre benchmarking, and print delivery specs.",
+                  "source": "./book-cover-design",
+                  "category": "design"
           }
     ]
 }
